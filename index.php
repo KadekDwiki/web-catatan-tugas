@@ -87,9 +87,6 @@ $tasks = $core->getTasks();
          </div>
       </div>
    </div>
-   <footer>
-      <p class="text-center p-5"></p>
-   </footer>
    <script src="js/bootstrap.js"></script>
 </body>
 
